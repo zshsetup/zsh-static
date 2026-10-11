@@ -2,7 +2,7 @@
 _commit: e730ed7
 _src_path: gh:audivir/copier-template
 description: Static build of zsh with ncurses linked in
-github_org: audivir
+github_org: zshsetup
 project_name: zsh-static
 project_slug: zsh_static
 project_type: shell
